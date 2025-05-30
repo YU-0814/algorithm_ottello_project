@@ -39,4 +39,4 @@ algorithm_othello_project/
 - 팀원 유진영: @YU-0814
 - 팀원 우민성: @wooms1116
 - 팀원 김지재: @zeejekoo
-- 팀원 D: @github_id
+- 팀원 김도윤: @chip575
