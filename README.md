@@ -11,14 +11,13 @@
 ```
 algorithm_othello_project/
 ├── main.py              # 현재 기준으로 가장 승률이 높은 알고리즘
-├── core/
-│   └── engine.py        # main.py에 적용된 게임 규칙, 돌 뒤집기 등의 핵심 로직
+├── logics.md            # main.py에 적용된 게임 규칙, 돌 뒤집기 등의 핵심 로직(main.py 변경 시 변경한 로직이나 추가한 로직을 적어주시면 됩니다.)
 ├── algorithms/
 │   ├── algo_유진영.py        # 유진영의 오셀로 알고리즘
 │   ├── algo_우민성.py        # 우민성의 오셀로 알고리즘
 │   ├── algo_김도윤.py        # 김도윤의 오셀로 알고리즘
 │   └── algo_김지재.py        # 김지재의 오셀로 알고리즘
-├── history_log.md       # 알고리즘 변경 이력 및 승률 기록
+├── Update_history.md       # 알고리즘 변경 이력 및 승률 기록
 ├── README.md            # 프로젝트 설명
 └── requirements.txt     # (필요 시) 의존 패키지 목록 -> 동일한 알고리즘 실행 환경을 위해 특이적을 설치해야 하는 패키지를 적어주세요.
 ```
