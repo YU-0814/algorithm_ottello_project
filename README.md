@@ -36,9 +36,6 @@ algorithm_othello_project/
 
 ---
 
-
----
-
 ## 👨‍👩‍👧‍👦 팀원 (GitHub ID 기준)
 - 팀원 A: @github_id
 - 팀원 B: @github_id
