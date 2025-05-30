@@ -9,19 +9,19 @@
 ## 📁 프로젝트 디렉토리 구조
 
 ```
-othello-fusion-ai/
+algorithm_othello_project/
 ├── main.py              # 현재 기준으로 가장 승률이 높은 알고리즘
 ├── core/
 │   ├── evaluator.py     # 점수 계산 로직 모듈
 │   └── engine.py        # 게임 규칙, 돌 뒤집기 등의 핵심 로직
 ├── algorithms/
-│   ├── algo_a.py        # 팀원 A의 알고리즘 버전
-│   ├── algo_b.py        # 팀원 B의 알고리즘 버전
-│   ├── algo_c.py        # 팀원 C의 알고리즘 버전
-│   └── algo_d.py        # 팀원 D의 알고리즘 버전
+│   ├── algo_유진영.py        # 유진영의 오셀로 알고리즘
+│   ├── algo_우민성.py        # 우민성의 오셀로 알고리즘
+│   ├── algo_김도윤.py        # 김도윤의 오셀로 알고리즘
+│   └── algo_김지재.py        # 김지재의 오셀로 알고리즘
 ├── history_log.md       # 알고리즘 변경 이력 및 승률 기록
 ├── README.md            # 프로젝트 설명
-└── requirements.txt     # (필요 시) 의존 패키지 목록
+└── requirements.txt     # (필요 시) 의존 패키지 목록 -> 알고리즘 실행 시 특이적을 설치해야 하는 패키지를 적어주세요.
 ```
 
 ---
