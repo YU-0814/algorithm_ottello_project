@@ -31,12 +31,12 @@ algorithm_othello_project/
 - 작성한 알고리즘은 상대 알고리즘들과 대전시켜 **승률을 측정**합니다.
 - **승률이 가장 높은 버전만 `main.py`에 반영**됩니다.
 - 새로운 아이디어로 기존 알고리즘을 개선해 더 나은 승률을 기록하면 다시 `main.py`를 갱신합니다.
-- `main.py` 변경 시 반드시 `Update_history.md`에 변경 내용을 기록합니다.
+- `main.py` 변경 시 반드시 `Update_history.md`와 'logics.md'에 변경 내용을 기록합니다.
 
 ---
 
 ## 👨‍👩‍👧‍👦 팀원 (GitHub ID 기준)
-- 팀원 A: @github_id
-- 팀원 B: @github_id
+- 팀원 유진영: @YU-0814
+- 팀원 우민성: @wooms1116
 - 팀원 C: @github_id
 - 팀원 D: @github_id
