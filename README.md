@@ -1,4 +1,4 @@
-# 오셀로 알고리즘 프로젝트 (Othello Fusion Algorithm)
+# 오셀로 알고리즘 프로젝트 (Othello Algorithm project)
 
 이 프로젝트는 Minimax, 딥러닝 등의 탐색 기반 또는 인공지능 기반 기법 없이, 순수한 규칙 기반 휴리스틱을 활용하여 가장 높은 승률을 내는 오셀로 알고리즘을 구현하는 것을 목표로 합니다.
 
@@ -36,16 +36,6 @@ algorithm_othello_project/
 
 ---
 
-## 🔧 실행 방법
-
-```bash
-python main.py
-```
-
-또는 특정 알고리즘을 테스트하고 싶을 경우:
-```bash
-python algorithms/algo_b.py
-```
 
 ---
 
